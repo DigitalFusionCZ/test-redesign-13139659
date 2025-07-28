@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-28T14:37:44.330Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-line-art-house.png",
+      "file_name": "logo-line-art-house.png",
+      "description": "A green line art drawing of a house with a chimney and two highlighted windows and a door.",
+      "suggested_usage": "Use as the primary logo for the website header/branding.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/project-tanvald-after-renovation.jpg",
+      "file_name": "project-tanvald-after-renovation.jpg",
+      "description": "A renovated modern house with a dark roof and white facade, set against a backdrop of green trees and hills under a partly cloudy sky. A person is visible near the house.",
+      "suggested_usage": "Use in project showcases, as a background for a hero section, or on an 'Our Work' page.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/project-rdpo-completed.jpg",
+      "file_name": "project-rdpo-completed.jpg",
+      "description": "A newly renovated residential house with a dark grey tiled roof, light-colored facade, and dark framed windows. Two cars are parked on the street in front of a modern fence.",
+      "suggested_usage": "Use in project showcases or on a 'Services' page illustrating residential renovations.",
+      "size_bytes": 558411
+    }
+  ]
+}
